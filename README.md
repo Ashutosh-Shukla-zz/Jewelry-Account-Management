@@ -3,5 +3,6 @@ A jewelry account management application with embedded tomcat and derby db for s
 
 ### Developers:
 [Ashutosh Shukla](https://www.linkedin.com/in/ashutosh-shukla/)
+
 [Sharad Tank](https://www.linkedin.com/in/sharadtank/)
 
